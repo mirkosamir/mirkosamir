@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mirko
 - 👀 I’m brewer & tech fan from Argentina 🇦🇷
-- 🌱 I’m old school linux user, right now with Manjaro and playing a lot with 2 raspberrysPi and ArmArch.
+- 🌱 I’m old school linux user, right now with Manjaro and playing a lot with 2 raspberrysPi, Archlinuxarm & RpiOS.
 - 🍺 You can contact me via my brewery project => www.yasu.com.ar
